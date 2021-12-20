@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(90, 90, 114);
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#image {
+
+    max-width: 100%;
+    height: auto;
+
+}
+
+#enlace, #tribute-info {
+    text-align: center;
+ 
+}
+
+#tribute-info{
+    font-size: 30px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+
+}
+
+a{
+     color: white;
+}
